@@ -6,7 +6,7 @@
 
     <groupId>io.github.ln678090</groupId>
     <artifactId>JpaUtil</artifactId>
-    <version>1.0.2-lamdepzai</version>
+    <version>1.0.2-lamdepzai.1</version>
     <packaging>jar</packaging>
 
     <name>JpaUtil</name>
