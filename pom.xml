@@ -7,7 +7,16 @@
     <groupId>poly</groupId>
     <artifactId>JpaUtil</artifactId>
     <version>1.0-lamdepzai</version>
-<dependencies>
+
+    <distributionManagement>
+        <repository>
+            <id>github</id>
+            <name>lamdepzai</name>
+            <url>https://maven.pkg.github.com/ln678090/testthuvien</url>
+        </repository>
+    </distributionManagement>
+
+    <dependencies>
     <dependency>
         <groupId>org.slf4j</groupId>
         <artifactId>slf4j-api</artifactId>
