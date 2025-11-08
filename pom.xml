@@ -41,7 +41,11 @@
         <artifactId>hibernate-core</artifactId>
         <version>6.4.4.Final</version>
     </dependency>
-
+        <dependency>
+            <groupId>io.github.cdimascio</groupId>
+            <artifactId>java-dotenv</artifactId>
+            <version>5.2.2</version>
+        </dependency>
 </dependencies>
     <properties>
         <maven.compiler.source>21</maven.compiler.source>
