@@ -4,14 +4,18 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>poly</groupId>
+    <groupId>io.github.ln678090</groupId>
     <artifactId>JpaUtil</artifactId>
-    <version>1.0-lamdepzai</version>
+    <version>1.0.2-lamdepzai</version>
+    <packaging>jar</packaging>
 
+    <name>JpaUtil</name>
+    <description>Thư viện JPA tiện ích của ln678090</description>
+    <url>https://github.com/ln678090/testthuvien</url>
     <distributionManagement>
         <repository>
             <id>github</id>
-            <name>lamdepzai</name>
+            <name>GitHub Packages</name>
             <url>https://maven.pkg.github.com/ln678090/testthuvien</url>
         </repository>
     </distributionManagement>

@@ -1,5 +1,8 @@
 package poly;
 
 public class hello {
-String ds="hhhh;";
+ public static String ds="lam sieu daptrai";
+ public static void lenlalennocnha (){
+     System.out.println(ds);
+    }
 }
